@@ -2,15 +2,15 @@
 
 ## Objetio demonstrar a negação entre telas usando expo-router e React-Native
 
-## Get started
+## Inicar o projeto siga as intruções a seguir
 
-1. Install dependencies
+1. Instalar as dependencias de projeto
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Executar o aplicativo
 
    ```bash
     npx expo start
