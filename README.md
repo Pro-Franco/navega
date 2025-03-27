@@ -1,4 +1,4 @@
-# Bem vidno ao projeto Navega👋
+# Bem vindo ao projeto Navega👋
 
 ## Objetivo: Demonstrar a negação entre telas usando expo-router e React-Native
 
