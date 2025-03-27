@@ -1,6 +1,6 @@
 # Bem vidno ao projeto Navega👋
 
-##Objetio demonstrar a negação entre telas usando expo-router e React-Native
+## Objetio demonstrar a negação entre telas usando expo-router e React-Native
 
 ## Get started
 
